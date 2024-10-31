@@ -1,0 +1,27 @@
+# Ignorar arquivos de configuração local
+.env
+
+# Ignorar arquivos compilados
+*.class
+*.o
+*.exe
+*.dll
+
+# Ignorar diretórios de build
+bin/
+obj/
+dist/
+build/
+
+# Ignorar dependências de pacotes
+node_modules/
+vendor/
+
+# Ignorar arquivos de cache
+*.log
+*.tmp
+.cache/
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
